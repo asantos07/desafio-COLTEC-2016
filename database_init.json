@@ -1,0 +1,11 @@
+{
+  "videos":[{
+    "cursoId":3,
+    "disciplina":"DAW",
+    "titulo":"Teste #1",
+    "resumo":"Funciona???",
+    "urlVideo":"https://youtu.be/LcUoVZwLUOE",
+    "urlImagem":"http://placehold.it/600x400"
+  }],
+  "cursos":["Análises Clinicas","Automação","Eletrônica","Informática","Química"]
+}
